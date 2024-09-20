@@ -1,17 +1,3 @@
-{
-    "organizationalUnit": "default",
-    "cn": "Perico Palotes",
-    "surname": [
-        "Palotes",
-        "Grandes"
-    ],
-    "username": "p.palotes",
-    "email": [
-        "pericopalotes23@nowhere.org"
-    ],
-    "userPassword": "mi.casa",
-    "givenName": [
-        "Perico"
-    ],
-    "enabled": true
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:53e824bd703a90d7823b62bb61e601254c2fc49c5badb253ac57f54c2e7c74c4
+size 313
